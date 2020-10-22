@@ -3,7 +3,7 @@ This is my practice in the clustering method.
 This project is to reproduce the result from the paper:  
 Nonparametric Discovery of Human Routines from Sensor Data.  
 http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.681.3152&rep=rep1&type=pdf  
-The clustering methods used in this project are Dirichlet process Gaussian mixture model (DPGMM), hierarchical Dirichlet process (HDP) and Affinity Propagation (AP)
+This work introduces a approach to model and recognize daily routines such as office work, dinner activities,commuting, lunch routine from wearable sensors.
 
 ## Required library  
 numpy, matplotlib, pandas, scikit-learn, tomotopy  
