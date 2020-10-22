@@ -3,7 +3,7 @@ This is my practice in the clustering method.
 This project is to reproduce the result from the paper:  
 Nonparametric Discovery of Human Routines from Sensor Data.  
 http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.681.3152&rep=rep1&type=pdf  
-This work introduces a approach to model and recognize daily routines such as office work, dinner activities,commuting, lunch routine from wearable sensors.
+This work introduces a approach to model and recognize daily routines such as office work, dinner activities,commuting, lunch routine from wearable sensors. These kinds of high-level routine can be treated as the composition of multiple low-level activities, such as driving bike, driving cart through supermarket, sitting  desk activities, walking while carrying something...etc. These low-level activities can be represented by some features of digital data from sensors.
 
 ## Required library  
 numpy, matplotlib, pandas, scikit-learn, tomotopy  
